@@ -17,13 +17,14 @@ p {
 }
 
 .page {
-  background-color: ;
   margin: 0 auto;
   padding: 0;
   font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 20px;
   overflow-x: hidden;
+  max-width: none;
+  min-width: 1271px;
 }
 
 .header {
@@ -45,9 +46,8 @@ p {
 }
 
 .nav__logo {
-  max-width: 100%;
   width: 58px;
-  height: 90px;
+  height: 80px;
 }
 
 .nav__links {
