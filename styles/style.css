@@ -23,19 +23,17 @@ p {
   font-size: 16px;
   line-height: 20px;
   overflow-x: hidden;
-  max-width: 1271px;
+  max-width: 100%;
   min-width: none;
 }
 
 .header {
   display: flex;
   flex-direction: column;
-  height: 100vh;
   min-height: 720px;
   max-height: 800px;
-  padding: 0;
+  padding: 30px 5%;
   position: relative;
-  overflow-x: hidden;
 }
 
 .nav {
@@ -68,12 +66,10 @@ p {
 }
 
 .header__content {
-  padding: 40px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: flex-start;
-  gap: 20px;
   padding: 0;
 }
 
@@ -94,7 +90,6 @@ p {
   font-size: 20px;
   line-height: 30px;
   max-width: 515px;
-  margin-bottom: 0;
   margin-top: 32px;
 }
 
