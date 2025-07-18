@@ -23,8 +23,8 @@ p {
   font-size: 16px;
   line-height: 20px;
   overflow-x: hidden;
-  min-width:;
-  max-width:;
+  min-width:auto;
+  max-width:auto;
 }
 
 .header {
@@ -47,8 +47,8 @@ p {
 
 .nav__logo {
   max-width: 100%;
-  width:;
-  height:;
+  width:auto;
+  height:auto;
 }
 
 .nav__links {
