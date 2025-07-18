@@ -17,14 +17,13 @@ p {
 }
 
 .page {
+  background-color: ;
   margin: 0 auto;
   padding: 0;
   font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 20px;
   overflow-x: hidden;
-  min-width:auto;
-  max-width:auto;
 }
 
 .header {
@@ -47,12 +46,12 @@ p {
 
 .nav__logo {
   max-width: 100%;
-  width:auto;
-  height:auto;
+  width: 58px;
+  height: 80px;
 }
 
 .nav__links {
-  list-style-type: none;
+  list-style: none;
   margin: 8px 0 0;
   display: flex;
   gap: 20px;
@@ -86,7 +85,7 @@ p {
   font-weight: 500;
   max-width: 635px;
   margin-bottom: 32px;
-  margin-top:;
+  margin-top: 128px;
 }
 
 .header__description {
@@ -94,7 +93,6 @@ p {
   line-height: 30px;
   max-width: 515px;
   margin-bottom: 0;
-  margin-top:;
 }
 
 .header__image {
@@ -208,3 +206,4 @@ img {
   height: auto;
   display: block;
 }
+
