@@ -45,7 +45,8 @@ p {
 }
 
 .nav__logo {.nav__logo {
-  height: 80px 58px;
+  height: 80px;
+  width: 58px;
 }
 
 .nav__links {
