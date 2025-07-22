@@ -24,7 +24,7 @@ p {
   line-height: 20px;
   overflow-x: hidden;
   max-width: 100%;
-  min-width: none;
+  min-width: 30%;
 }
 
 .header {
@@ -45,7 +45,7 @@ p {
 }
 
 .nav__logo {
-  height: auto;
+  height: 80px;
   width: 58px;
 }
 
